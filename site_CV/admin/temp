@@ -1,0 +1,101 @@
+partie parcours
+(experiences)
+<thead>
+              <tr>
+                <th scope="col">Année</th>
+                <th scope="col">Description</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">2010</th>
+                <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora alias accusantium rerum deleniti quae possimus</td>
+              </tr>
+              <tr>
+                <th scope="row">2015</th>
+                <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem esse, maxime rem temporibus rerum beatae quidem fuga eum at, libero iusto ullam praesentium atque? Veniam, natus. Porro, ad tenetur. Odio!</td>
+              </tr>
+              <tr>
+                <th scope="row">2020</th>
+                <td>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ipsam nostrum iste qui iure provident ipsum sed tempora velit, deleniti nemo atque? Nemo aliquid repellendus id officiis ipsum dolorem et!</td>
+              </tr>
+
+
+
+
+              realisations
+
+<div class="col-md-3 col-sm-6 col-xs-12" data-wow-offset="50" data-wow-delay="0.6s">
+              <div class="realisations-thumb">
+                <img src="assets/img/2125.jpg" class="img-responsive" alt="realisations img 2">
+                  <div class="realisations-overlay">
+                      <h4>Projet 2</h4>
+                        <p>TEST</p>
+                          <a href="#" class="btn btn-default">Détails</a>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12" data-wow-offset="50" data-wow-delay="0.6s">
+                        <div class="realisations-thumb">
+                           <img src="assets/img/2125.jpg" class="img-responsive" alt="realisations img 3">
+                                <div class="realisations-overlay">
+                                    <h4>Projet 3</h4>
+                                    <p>TEST</p>
+                                    <a href="#" class="btn btn-default">Détails</a>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12" data-wow-offset="50" data-wow-delay="0.6s">
+                        <div class="realisations-thumb">
+                           <img src="assets/img/2125.jpg" class="img-responsive" alt="realisations img 4">
+                                <div class="realisations-overlay">
+                                    <h4>Projet Four</h4>
+                                    <p>TEST</p>
+                                    <a href="#" class="btn btn-default">Détails</a>
+                                </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12" data-wow-offset="50" data-wow-delay="0.6s">
+                        <div class="realisations-thumb">
+                           <img src="assets/img/2125.jpg" class="img-responsive" alt="realisations img 3">
+                                <div class="realisations-overlay">
+                                    <h4>Projet Five</h4>
+                                    <p>TEST </p>
+                                    <a href="#" class="btn btn-default">Détails</a>
+                                </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-12" data-wow-offset="50" data-wow-delay="0.6s">
+                        <div class="realisations-thumb">
+                           <img src="assets/img/2125.jpg" class="img-responsive" alt="realisations img 4">
+                                <div class="realisations-overlay">
+                                    <h4>Projet 6</h4>
+                                    <p>TEST</p>
+                                    <a href="#" class="btn btn-default">Détails</a>
+                                </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12" data-wow-offset="50" data-wow-delay="0.6s">
+                        <div class="realisations-thumb">
+                           <img src="assets/img/2125.jpg" class="img-responsive" alt="realisations img 4">
+                                <div class="realisations-overlay">
+                                    <h4>Projet 7</h4>
+                                    <p>Test </p>
+                                    <a href="#" class="btn btn-default">Détails</a>
+                                </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="realisations-thumb">
+                           <img src="assets/img/2125.jpg" class="img-responsive" alt="realisations img 4">
+                                <div class="realisations-overlay">
+                                    <h4>Projet 8</h4>
+                                    <p>TEST</p>
+                                    <a href="#" class="btn btn-default">Détails</a>
+                                </div>
+                        </div>
+                    </div>
